@@ -1,0 +1,3 @@
+export const INIT_MEDECINS = "INIT_MEDECINS" ;
+export const ADD_MEDECIN= "ADD_MEDECIN";
+export const MODIFY_MEDECIN = "MODIFY_MEDECIN"

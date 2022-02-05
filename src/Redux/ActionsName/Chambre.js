@@ -1,0 +1,3 @@
+export const INIT_CHAMBRES = "INIT_CHAMBRES" ;
+export const ADD_CHAMBRE= "ADD_CHAMBRE";
+export const MODIFY_CHAMBRE = "MODIFY_CHAMBRE"
